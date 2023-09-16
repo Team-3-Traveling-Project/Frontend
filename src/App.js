@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <div>gkgkg</div>
+      <div></div>
     </>
   );
 }
